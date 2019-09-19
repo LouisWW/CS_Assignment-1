@@ -1,4 +1,4 @@
-# Titles of the different Paper 
+# Titles of the different Papers 
 Van Dyke, M. C. C., Teixeira, M. M., & Barker, B. M. (2019). 
 Fantastic yeasts and where to find them: the hidden diversity of dimorphic fungal pathogens. 
 Current opinion in microbiology, 52, 55-63.
@@ -19,6 +19,7 @@ Interactive effects of common β2-adrenoceptor haplotypes and age on susceptibil
 
 # Beer consumption in the Netherlands
 
+```(python)
 import matplotlib.pyplot as plt
 import pandas as pd
 
@@ -42,7 +43,7 @@ plt.plot(data.iloc[:,0],data.iloc[:,1])
 plt.title('Beer consumption in the Nehterlands')
 plt.xlabel('Year')
 plt.ylabel('Wo')
-
+```(python)
 
 ![](https://github.com/LouisWW/CS_Assignment-1/blob/master/Beer_consumption_NL.png)
 
