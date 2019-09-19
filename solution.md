@@ -43,6 +43,9 @@ plt.xlabel('Year')
 plt.ylabel('Wo')
 
 
+![](https://github.com/LouisWW/CS_Assignment-1/blob/master/Beer_consumption_NL.png)
+
+
 
 
 
