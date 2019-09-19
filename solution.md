@@ -45,6 +45,4 @@ plt.ylabel('Wo')
 
 
 
-![Drag Racing](/Users/Louis/Desktop/Seminars/CS_Assignment-1-master/Beer_consumption_NL.png)
-
 
