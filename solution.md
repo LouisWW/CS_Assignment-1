@@ -48,5 +48,10 @@ plt.ylabel('Wo')
 
 
 
+### Description
+
+This graph shows a positive correlation of the beer consumption over the years. The upper graph shows an exponential increase whereas the bottom plot shows a linear correlation.
+
+
 
 
