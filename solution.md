@@ -43,7 +43,7 @@ plt.plot(data.iloc[:,0],data.iloc[:,1])
 plt.title('Beer consumption in the Nehterlands')
 plt.xlabel('Year')
 plt.ylabel('Wo')
-
+```
 
 ![](https://github.com/LouisWW/CS_Assignment-1/blob/master/Beer_consumption_NL.png)
 
